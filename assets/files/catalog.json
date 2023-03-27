@@ -1,0 +1,61 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iPhone 12 pro",
+            "desc":"Apple iphone 12th gen",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://cdn1.smartprix.com/rx-iVyp4t2Vm-w1200-h1200/Vyp4t2Vm.jpg"
+        },
+       
+        {
+            "id":2,
+            "name":"google pixel",
+            "desc":"google pixel new gen",
+            "price":699,
+            "color":"#33505a",
+            "image":"https://fdn2.mobgsm.com/vv/pics/google/google-pixel-5a-5g-00.jpg"
+        },
+        {
+            "id":3,
+            "name":"Samsung S23 ",
+            "desc":"ultra",
+            "price":1099,
+            "color":"#33505a",
+            "image":"https://cdn1.smartprix.com/rx-iNtIVAEE5-w420-h420/samsung-galaxy-s22-u.jpg"
+        },
+        {
+            "id":4,
+            "name":"real me",
+            "desc":"Real me 10 pro",
+            "price":899,
+            "color":"#33505a",
+            "image":"https://image01.realme.net/general/20210401/1617294093340.png"
+        },
+        {
+            "id":5,
+            "name":"MI",
+            "desc":"MI A2",
+            "price":99,
+            "color":"#33505a",
+            "image":"http://global.appmifile.com/webfile/globalimg/in/cms/B0DEB42E-A518-ADC6-3CD9-A686A5B27FD0.jpg"
+        },
+        {
+            "id":6,
+            "name":"Airpods",
+            "desc":"Apple airpods",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/7120GgUKj3L._SL1500_.jpg"
+        },
+        {
+            "id":7,
+            "name":"Sony",
+            "desc":"Sony Air dopes",
+            "price":299,
+            "color":"#33505a",
+            "image":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61xxuK644XL.jpg"
+        }
+    ]
+}
